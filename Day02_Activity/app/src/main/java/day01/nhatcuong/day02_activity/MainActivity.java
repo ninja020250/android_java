@@ -8,7 +8,7 @@ import android.view.View;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
-    private static final int RQ_CODE = 555;
+        private static final int RQ_CODE = 555;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
